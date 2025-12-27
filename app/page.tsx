@@ -131,7 +131,7 @@ export default function Home() {
             </button>
           </div>
           <p className="text-[10px] text-center text-slate-500 mt-3 font-medium uppercase tracking-widest">
-            Powered by Google Gemini Pro
+            Sahasawat Boss
           </p>
         </footer>
       </div>
