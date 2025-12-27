@@ -1,6 +1,6 @@
 # Gemini AI Chat API (Next.js)
 
-Test Local **Google Gemini API** for text-based AI chat responses.
+Test Local **Google Gemini API Free Tier** for text-based AI chat responses.
 
 
 
